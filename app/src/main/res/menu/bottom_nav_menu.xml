@@ -2,19 +2,19 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
       xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/home"
+        android:id="@+id/menu_home_item"
         android:title="@string/menu_home_text"
         android:icon="@drawable/ic_home_white_24dp"
         android:enabled="true"
         app:showAsAction="ifRoom" />
     <item
-        android:id="@+id/locations"
+        android:id="@+id/menu_locations_item"
         android:title="@string/menu_locations_text"
         android:icon="@drawable/ic_location_on_white_24dp"
         android:enabled="true"
         app:showAsAction="ifRoom" />
     <item
-        android:id="@+id/menu"
+        android:id="@+id/menu_menu_item"
         android:title="@string/menu_menu_text"
         android:icon="@drawable/ic_restaurant_menu_white_24dp"
         android:enabled="true"

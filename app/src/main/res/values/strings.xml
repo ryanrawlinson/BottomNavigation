@@ -3,4 +3,8 @@
     <string name="menu_home_text">Home</string>
     <string name="menu_locations_text">Locations</string>
     <string name="menu_menu_text">Menu</string>
+
+    <string name="home_text">Home</string>
+    <string name="locations_text">Locations</string>
+    <string name="menu_text">Menu</string>
 </resources>
